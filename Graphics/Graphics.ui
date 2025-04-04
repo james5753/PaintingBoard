@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>GraphicsClass</class>
+ <widget class="QWidget" name="GraphicsClass" >
+  <property name="objectName" >
+   <string notr="true">GraphicsClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Graphics</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="Graphics.qrc"/>
+ </resources>
+ <connections/>
+</UI>
