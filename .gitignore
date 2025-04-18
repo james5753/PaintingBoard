@@ -1,0 +1,31 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.ipch
+*.obj
+*.pdb
+*.tlog
+*.log
+*.idb
+*.cache
+*.ilk
+*.aps
+*.sdf
+*.opensdf
+*.ncb
+*.exe
+*.dll
+
+# Qt generated files
+Makefile*
+*.qmake.stash
+*.pro.user
+moc_*
+ui_*
+qrc_*
+
+# OS files
+.DS_Store
+Thumbs.db
